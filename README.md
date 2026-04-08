@@ -41,7 +41,10 @@ Currently spearheading Enterprise AI Enablement and B2B Platform Migration at Ho
 
 - **Architecture & AI:** OpenClaw, LLM Prompt Engineering, API Integration
 - **Data & Analytics:** Python (Pandas), SQL, Tableau, Google Analytics, GSC
-- **E-Commerce:** Shopify (Liquid, API), Braze, Klaviyo
+- **E-Commerce:** Shopify (HTML5, CSS, JS, Ruby, JSON, Liquid, API), WIX, Wordpress
+- **Digital Marketing:** GMC, Google Ads, Meta Ads, Google Trends 
+- **CRM Platform:** Braze, Klaviyo, MailChamp
 - **Cloud & DevOps:** GitHub Actions, Jira, GCP (Basic)
+- ** Project Management & Communication Tools:** Trello, Monday.com, Slack, Feishu & Lark
 
 📫 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/andyyuen77) | paklongy@gmail.com
