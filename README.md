@@ -45,6 +45,6 @@ Currently spearheading Enterprise AI Enablement and B2B Platform Migration at Ho
 - **Digital Marketing:** GMC, Google Ads, Meta Ads, Google Trends 
 - **CRM Platform:** Braze, Klaviyo, MailChamp
 - **Cloud & DevOps:** GitHub Actions, Jira, GCP (Basic)
-- ** Project Management & Communication Tools:** Trello, Monday.com, Slack, Feishu & Lark
+- **Project Management & Communication Tools:** Trello, Monday.com, Slack, Feishu & Lark
 
 📫 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/andyyuen77) | paklongy@gmail.com
