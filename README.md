@@ -10,10 +10,10 @@ Currently spearheading Enterprise AI Enablement and B2B Platform Migration at Ho
 
 ## 🚀 Core Competencies & Focus Areas
 
-- 🤖 Enterprise AI Enablement:** Architecting Agentic workflows (OpenClaw) and defining corporate AI compliance frameworks for large-scale enterprise adoption.
-- 📊 Data Governance & Analytics:** Building automated data pipelines, ensuring PII compliance, and designing Tableau/PowerBI dashboards that translate raw data into executive insights.
-- 🛒 E-Commerce & CRO:** Optimizing DTC operational efficiency, deploying API-driven automation, and executing conversion rate optimization (CRO) strategies.
-- 🛠️ Cross-Functional Project Management:** Delivering complex B2B system migrations with zero-downtime governance and managing international stakeholder requirements.
+- 🤖 **Enterprise AI Enablement:** Architecting Agentic workflows (OpenClaw) and defining corporate AI compliance frameworks for large-scale enterprise adoption.
+- 📊 **Data Governance & Analytics:** Building automated data pipelines, ensuring PII compliance, and designing Tableau/PowerBI dashboards that translate raw data into executive insights.
+- 🛒 **E-Commerce & CRO:** Optimizing DTC operational efficiency, deploying API-driven automation, and executing conversion rate optimization (CRO) strategies.
+- 🛠️ **Cross-Functional Project Management:** Delivering complex B2B system migrations with zero-downtime governance and managing international stakeholder requirements.
 
 ---
 
@@ -39,9 +39,9 @@ Currently spearheading Enterprise AI Enablement and B2B Platform Migration at Ho
 
 ## 🧰 Tech Stack & Tools
 
-- Architecture & AI:** OpenClaw, LLM Prompt Engineering, API Integration
-- Data & Analytics:** Python (Pandas), SQL, Tableau, Google Analytics, GSC
-- E-Commerce:** Shopify (Liquid, API), Braze, Klaviyo
-- Cloud & DevOps:** GitHub Actions, Jira, GCP (Basic)
+- **Architecture & AI:** OpenClaw, LLM Prompt Engineering, API Integration
+- **Data & Analytics:** Python (Pandas), SQL, Tableau, Google Analytics, GSC
+- **E-Commerce:** Shopify (Liquid, API), Braze, Klaviyo
+- **Cloud & DevOps:** GitHub Actions, Jira, GCP (Basic)
 
 📫 Let's Connect:** [LinkedIn](https://www.linkedin.com/in/andyyuen77) | paklongy@gmail.com
