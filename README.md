@@ -19,7 +19,7 @@ Currently spearheading Enterprise AI Enablement and B2B Platform Migration at Ho
 
 ## 📂 Featured Projects (Case Studies)
 
-*(顧問註：這裡未來會放上我們規劃的那幾個跨界專案連結)*
+*(未來會放上規劃中的跨界專案連結)*
 
 * 🔗 [**Enterprise-AI-Enablement-Framework**](./link) 
   * **Business Problem:** Manual HR operations causing high overhead and data silos.
